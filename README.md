@@ -1,10 +1,16 @@
-# [Hierarchical Image Classification using Entailment Cone Embeddings](https://ankitdhall.github.io/project/learning-representations-for-images-with-hierarchical-labels/)
+# Reproducing the paper [Hierarchical Image Classification using Entailment Cone Embeddings](https://ankitdhall.github.io/project/learning-representations-for-images-with-hierarchical-labels/) by Dhall et. al (2020). 
+
+### Authors: Caroline Freyer and Marios Marinos
+
+Blog explaining the paper futher can be found [here](https://carolinefreyer.medium.com/entailment-cones-for-better-hierarchical-image-classifier-95973a18a0e1). 
+
+
+
+# 
 <a href="https://ankitdhall.github.io" target="_blank">Ankit Dhall</a>, <a href="https://las.inf.ethz.ch/people/anastasia-makarova" target="_blank">Anastasia Makarova</a>, <a href="https://people.csail.mit.edu/oct/" target="_blank">Octavian Ganea</a>, <a href="http://da.inf.ethz.ch/people/DarioPavllo/" target="_blank">Dario Pavllo</a>, Michael Greeff, <a href="https://las.inf.ethz.ch/krausea" target="_blank">Andreas Krause</a>
 
 ![alt text](https://ankitdhall.github.io/publication/learning-representations-for-images-with-hierarchical-labels/featured_huc45c56e50f3be3419f4018ba4fe72357_373657_720x0_resize_lanczos_2.png "Jointly embeddings images and hierarchical labels on a Poincare disk in 2D")  
 *Fig. 1: Jointly embeddings images and hierarchical labels on a Poincare disk in 2D*
-
-More information about the project (paper, dataset and slides) can be found on the [project page](https://ankitdhall.github.io/project/learning-representations-for-images-with-hierarchical-labels/).
 
 # Related publications and dataset
 - [Learning Representations for Images With Hierarchical Labels, Master Thesis](https://arxiv.org/abs/2004.00909)
@@ -38,40 +44,6 @@ One of the main applications of this work is to assist natural history collectio
 
 Thanks to the the [ETH Library Lab](https://www.librarylab.ethz.ch/) the research conducted on the thesis will be turned into classification app that can be used by hobbyists, collectors, and researchers alike to speed up and economize classification and segregation of entomological specimens. More information about the app will be made available soon!
 
-# References
-If you find this useful for your research, please consider citing the following in your publication:
-```
-@misc{dhall2020hierarchical,
-    title={Hierarchical Image Classification using Entailment Cone Embeddings},
-    author={Ankit Dhall and Anastasia Makarova and Octavian Ganea and Dario Pavllo and Michael Greeff and Andreas Krause},
-    year={2020},
-    eprint={2004.03459},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
-}
-
-@misc{dhall2020hierarchical,
-    title={Hierarchical Image Classification using Entailment Cone Embeddings},
-    author={Ankit Dhall and Anastasia Makarova and Octavian Ganea and Dario Pavllo and Michael Greeff and Andreas Krause},
-    year={2020},
-    eprint={2004.03459},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
-}
-
-@MISC{20.500.11850/365379,
-	author = {Dhall, Ankit},
-	publisher = {ETH Zurich},
-	year = {2019},
-	language = {en},
-	copyright = {In Copyright - Non-Commercial Use Permitted},
-	size = {5.98 GB},
-	address = {Zurich},
-	DOI = {10.3929/ethz-b-000365379},
-	title = {ETH Entomological Collection (ETHEC) Dataset [Palearctic Macrolepidoptera, Spring 2019]},
-}
-
-```
 
 ![alt text](https://ankitdhall.github.io/project/learning-representations-for-images-with-hierarchical-labels/ec_2d_labels.png "Embedding label hierarchy with euclidean entailment cones in 2D")
 *Fig. 3: Embedding label hierarchy with euclidean entailment cones in 2D*
