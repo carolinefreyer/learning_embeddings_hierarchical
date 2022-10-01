@@ -4,19 +4,6 @@
 
 Blog explaining the paper futher can be found [here](https://carolinefreyer.medium.com/entailment-cones-for-better-hierarchical-image-classifier-95973a18a0e1). 
 
-
-
-# 
-<a href="https://ankitdhall.github.io" target="_blank">Ankit Dhall</a>, <a href="https://las.inf.ethz.ch/people/anastasia-makarova" target="_blank">Anastasia Makarova</a>, <a href="https://people.csail.mit.edu/oct/" target="_blank">Octavian Ganea</a>, <a href="http://da.inf.ethz.ch/people/DarioPavllo/" target="_blank">Dario Pavllo</a>, Michael Greeff, <a href="https://las.inf.ethz.ch/krausea" target="_blank">Andreas Krause</a>
-
-![alt text](https://ankitdhall.github.io/publication/learning-representations-for-images-with-hierarchical-labels/featured_huc45c56e50f3be3419f4018ba4fe72357_373657_720x0_resize_lanczos_2.png "Jointly embeddings images and hierarchical labels on a Poincare disk in 2D")  
-*Fig. 1: Jointly embeddings images and hierarchical labels on a Poincare disk in 2D*
-
-# Related publications and dataset
-- [Learning Representations for Images With Hierarchical Labels, Master Thesis](https://arxiv.org/abs/2004.00909)
-- [Hierarchical Image Classification using Entailment Cone Embeddings @CVPR 2020, DiffCVML workshop](https://arxiv.org/abs/2004.03459)
-- [ETHEC Hierarchical dataset](https://www.researchcollection.ethz.ch/handle/20.500.11850/365379)
-
 # Usage
 Create a virtual environment using the `requirements.txt` file:
 ```
