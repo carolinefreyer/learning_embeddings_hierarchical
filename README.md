@@ -1,6 +1,6 @@
 # Reproducing the paper [Hierarchical Image Classification using Entailment Cone Embeddings](https://ankitdhall.github.io/project/learning-representations-for-images-with-hierarchical-labels/) by Dhall et. al. (2020). 
 
-### Authors: Caroline Freyer and Marios Marinos
+Authors: Caroline Freyer and Marios Marinos
 
 Blog explaining out interpretation and reproduction Dhall et. al.'s [paper](https://ankitdhall.github.io/project/learning-representations-for-images-with-hierarchical-labels/) can be found [here](https://carolinefreyer.medium.com/entailment-cones-for-better-hierarchical-image-classifier-95973a18a0e1). 
 
