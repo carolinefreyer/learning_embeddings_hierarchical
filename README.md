@@ -4,7 +4,7 @@
 
 Blog explaining out interpretation and reproduction Dhall et. al.'s [paper](https://ankitdhall.github.io/project/learning-representations-for-images-with-hierarchical-labels/) can be found [here](https://carolinefreyer.medium.com/entailment-cones-for-better-hierarchical-image-classifier-95973a18a0e1). 
 
-# Usage (As written by Dhall et. al.)
+## Usage (As written by Dhall et. al.)
 Create a virtual environment using the `requirements.txt` file:
 ```
 virtualenv -p python3 venv
